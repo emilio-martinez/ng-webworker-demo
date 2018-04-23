@@ -204,7 +204,7 @@ function webpackCallback(resolve, reject) {
    * @param {Error} err
    * @param {webpack.Stats} stats
    */
-  function cb (err, stats) {
+  function cb(err, stats) {
     if (err) {
       return reject(err.stack || err);
     }
@@ -227,7 +227,7 @@ function webpackCallback(resolve, reject) {
 
     console.log('\r\n', webpackResult, '\r\n');
     resolve();
-  };
+  }
 
   return cb;
 }
