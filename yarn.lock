@@ -156,9 +156,9 @@
   dependencies:
     tslib "^1.7.1"
 
-"@angular/platform-webworker@^5.2.10":
-  version "5.2.10"
-  resolved "https://registry.yarnpkg.com/@angular/platform-webworker/-/platform-webworker-5.2.10.tgz#e2cb1a440a42f1b159b66fedc40a35d2396ad105"
+"@angular/platform-webworker@5.2.7":
+  version "5.2.7"
+  resolved "https://registry.yarnpkg.com/@angular/platform-webworker/-/platform-webworker-5.2.7.tgz#145d050e19808eadd5dc17a7c3dd8b724f184984"
   dependencies:
     tslib "^1.7.1"
 
